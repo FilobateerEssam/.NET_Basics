@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nq1Uk6VGLw17kAZIhu/A9oBajwQ8noo6xRwrvFfTtXL7NlyQnjo+suOUm+MIkfJckfYASAM0+pdXtlAlAACNdQ==",
+  "success": true,
+  "projectFilePath": "D:\\CORCE\\.Net\\Tests\\.NET_Basics-main\\BulkyBook.Utility\\BulkyBook.Utility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
